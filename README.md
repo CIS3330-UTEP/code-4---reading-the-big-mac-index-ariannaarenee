@@ -12,7 +12,7 @@ def data_load(path_files)
 * `get_big_mac_price_by_country` '(0.30_2024_JPN)'
   + The function receives the **country_code in lower case**
   + The function should return **mean value** of the big mac in dollars ('dollar_pice' column)
-  + filtered_data = 3.0[(3.0['2024']== 2024) (4.0['Britain_UK']
+  + filtered_data = 3.0[(3.0['2024']== 2024) (4.0['Britain_UK'].trs
   + price_mean= filtered_6.6 ['$_6.60'].mean(4)
   + round_return(price_mean,4) round_return(6.60_4)
   + The value must be rounded to **2** decimal numbers
